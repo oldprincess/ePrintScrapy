@@ -1,6 +1,6 @@
-# 欧密(ePrint)论文下载脚本
+# ePrint论文下载脚本
 
-一个简易的欧密([Cryptology ePrint Archive](https://eprint.iacr.org/))论文批量下载脚本，支持关键字等索引方式。主要原理是通过爬取其 `search` 页面 (https://eprint.iacr.org/search) 获取相应的论文信息，支持的索引参数与 `search` 页面中的索引选项一致
+一个简易的EPRINT([Cryptology ePrint Archive](https://eprint.iacr.org/))论文批量下载脚本，支持关键字等索引方式。主要原理是通过爬取其 `search` 页面 (https://eprint.iacr.org/search) 获取相应的论文信息，支持的索引参数与 `search` 页面中的索引选项一致
 
 ![ePrint gcm](./eprint.jpg)
 
